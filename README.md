@@ -3,10 +3,9 @@
 - 🌱 I’m currently learning AWS cloud computing
 - 👯 I’m looking to collaborate on Data Science related program
 - 🤔 I’m looking for help with Front End Web development
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: samuelka2001@yahoo.com
+- 😄 Pronouns:He(him/his)
+
 -->
 
 <!--
